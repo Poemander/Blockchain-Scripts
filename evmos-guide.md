@@ -1,5 +1,5 @@
 # Setting up a Cosmos SDK Node and what could go wrong
-**Installing some basic software:
+**Installing some basic software:**
 
 First we need to make sure to have the basic software installed, in the case of Cosmos SDK we need make, curl, gcc, go otherwise we’ll run into ‘command not found’ errors or have trouble downloading the required programs. We also need to make sure there’s no previous version of Go installed.
 
@@ -66,7 +66,7 @@ go version
 output:
 go version go1.17.2 
 
-**Installing the Node client:
+**Installing the Node client:**
 
 First thing is to find the Github repository for the network you want to run the node on. You can google it or search it on the Github page.
 Here’s some examples:
