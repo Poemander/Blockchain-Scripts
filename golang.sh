@@ -36,4 +36,3 @@ sleep 3
 go version
 sleep 4
 echo "GO installed and added to PATH (.profile), you can continue installing the node now :)"
-
