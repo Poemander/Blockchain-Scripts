@@ -134,3 +134,4 @@ systemctl enable $DAEMONNAME.service
 
 echo "Service created at /etc/systemd/system/$DAEMONNAME.service."
 echo "Run 'systemctl start $DAEMONNAME.service' to start the node"
+
